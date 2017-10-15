@@ -1,6 +1,6 @@
 /*
- *@author J.Power
- *12th Nov 2013
+ *@author C Sullivan
+ *12th April 2017
  *OutputUsingForLoop.java
  */
  public class OutputUsingForLoop{
