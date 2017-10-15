@@ -1,6 +1,6 @@
 /*
- *@author J.Power
- *12th Nov 2013
+ *@author C Sullivan
+ *12th April 2017
  *OutputUsingWhileLoop.java
  */
  public class OutputUsingWhileLoop{
